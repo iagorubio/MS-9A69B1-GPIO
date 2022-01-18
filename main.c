@@ -12,7 +12,11 @@ int main() {
     switch_gpio_configuration_SIO_LDN_0x06();
 
     set_gpio_0_high();
-
+    // delay is OS dependent
+    // so please choose your poison
+    // https://code.woboq.org/linux/linux/arch/x86/lib/delay.c.html
+    // ... AS EXAMPLE
+    set_gpio_0_low();
     exit_sio();
 }
 

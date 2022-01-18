@@ -17,7 +17,7 @@
         GPO_REG:            .byte 0x81
         GPI_ADD:            .byte 0x00
         GPO_ADD:            .byte 0x00
-        GPO_0:              .byte 0b00010000
+        GPO_0:              .byte 0b00010000 //SET THE GPIO YOU NEED HERE OR ADD OTHER AND IMPLEMENT THEMº
 
     .text
 
