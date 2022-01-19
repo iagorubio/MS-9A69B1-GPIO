@@ -19,6 +19,8 @@ work out of the box.
 
 This code is in the Public Domain.
 
+*Note: Only GP0 address is on the doc, so if you need some more GPIOs a bit of thinkering is mandatory.*
+
 THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
